@@ -19,12 +19,6 @@ This repository is dedicated to exploring and documenting various fundamental co
 Here are the main topics covered in this repository:
 
 - [Fundamentals](fundamentals): Basic concepts and syntax in Python.
-- [Data Structures](data-structures): Understanding and working with Python data structures.
-- [Functions](functions): Exploring functions and modular programming in Python.
-- [OOP](OOP): Introduction to object-oriented programming in Python.
-
-Feel free to navigate through the folders and explore the content. Each folder contains dedicated files explaining the corresponding topic.
-
 ## Getting Started
 
 To get started, clone this repository to your local machine:
